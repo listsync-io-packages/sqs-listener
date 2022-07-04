@@ -1,0 +1,10 @@
+venv
+.mypy_cache
+.vscode
+.idea
+*.pyc
+.DS_Store
+build
+dist
+pySqsListener.egg-info
+test_listen.py
